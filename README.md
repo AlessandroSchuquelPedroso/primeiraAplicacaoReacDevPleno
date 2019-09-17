@@ -1,2 +1,0 @@
-# primeiraAplicacaoReacDevPleno
-Created with CodeSandbox
